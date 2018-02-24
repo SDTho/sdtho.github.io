@@ -11,7 +11,9 @@
 
 ```markdown
 
-![Image](https://www.sdthoart.com/wp-content/uploads/2017/11/micked.jpg)
+![test](https://www.sdthoart.com/wp-content/uploads/2017/11/micked.jpg)
+
+```
 
 ```markdown
 Syntax highlighted code block
