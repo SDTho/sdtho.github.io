@@ -1,15 +1,17 @@
 ## SDTho @ www
 
-[sdtho.com]https://www.sdtho.com/
+[sdtho.com](https://www.sdtho.com/)
 
-[sdthoart.com]https://www.sdthoart.com/
+[sdthoart.com](https://www.sdthoart.com/)
 
-[sdthodesign.com]https://www.sdthodesign.com/
+[sdthodesign.com](https://www.sdthodesign.com/)
 
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+```markdown
+
+![Image](https://www.sdthoart.com/wp-content/uploads/2017/11/micked.jpg)
 
 ```markdown
 Syntax highlighted code block
