@@ -11,7 +11,7 @@
 
 ```markdown
 
-![Image of SDThoArt](sdtho.github.io/gitsdtho.jpg)
+![Image of SDThoArt](sdtho.github.io/images/gitsdtho.jpg)
 
 ```
 
