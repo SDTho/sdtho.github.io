@@ -11,7 +11,7 @@
 
 ```markdown
 
-![Image](https://www.sdthoart.com/wp-content/uploads/2017/11/micked.jpg)
+![Image of SDThoArt](https://www.sdthoart.com/wp-content/uploads/2017/11/micked.jpg)
 
 ```
 
