@@ -13,12 +13,12 @@ Feet in the water...
 [sdthodesign.com](https://www.sdthodesign.com/)
 
 
+
+![Image of SDThoArt](https://sdthodesign.com/images/art/SDTho_Art_deePin_Thumb.jpg)
+
+
 ```markdown
 
 `unicorns`
 
 ```
-
-![Image of SDThoArt](https://sdthodesign.com/images/art/SDTho_Art_deePin_Thumb.jpg)
-
-
