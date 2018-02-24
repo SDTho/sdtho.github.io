@@ -1,11 +1,9 @@
 ## SDTho
 
-
-```markdown
+Feet in the water...
 
 ### www
 
-```
 
 
 [sdtho.com](https://www.sdtho.com/)
