@@ -11,9 +11,11 @@
 
 ```markdown
 
-![Image of SDThoArt](https://sdtho.github.io/images/gitsdtho.jpg)
+makrz
 
 ```
+
+![Image of SDThoArt](https://sdtho.github.io/images/gitsdtho.jpg)
 
 ```markdown
 Syntax highlighted code block
