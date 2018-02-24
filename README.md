@@ -15,7 +15,7 @@ makrz
 
 ```
 
-![Image of SDThoArt](https://sdtho.github.io/images/gitsdtho.jpg)
+![Image of SDThoArt](https://sdthodesign.com/images/art/SDTho_Art_deePin_Thumb.jpg)
 
 ```markdown
 Syntax highlighted code block
