@@ -1,4 +1,4 @@
-## SDTho @ www
+https://## SDTho @ www
 
 [sdtho.com](https://www.sdtho.com/)
 
@@ -11,7 +11,7 @@
 
 ```markdown
 
-![Image of SDThoArt](sdtho.github.io/images/gitsdtho.jpg)
+![Image of SDThoArt](https://sdtho.github.io/images/gitsdtho.jpg)
 
 ```
 
