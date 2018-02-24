@@ -1,4 +1,4 @@
-https://## SDTho @ www
+## SDTho @ www
 
 [sdtho.com](https://www.sdtho.com/)
 
