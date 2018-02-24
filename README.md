@@ -11,7 +11,7 @@
 
 ```markdown
 
-![Image of SDThoArt](https://sdthodesign.com/images/art/SDTho_Art_deePin_Thumb.jpg)
+![Image of SDThoArt](sdtho.github.io/gitsdtho.jpg )
 
 ```
 
