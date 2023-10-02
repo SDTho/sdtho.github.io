@@ -4,17 +4,9 @@ Feet in the water...
 
 ### www
 
-
-
-[sdtho.com](https://www.sdtho.com/)
-
-[sdthoart.com](https://www.sdthoart.com/)
-
-[sdthodesign.com](https://www.sdthodesign.com/)
-
-
-
-![Image of SDThoArt](https://sdthodesign.com/images/art/SDTho_Art_deePin_Thumb.jpg)
+I don't know what I'm doing on Github....
+So I just started a new account?
+https://github.com/duelmas
 
 
 ```markdown
